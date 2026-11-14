@@ -1,7 +1,13 @@
-# Solomon Ajireloja — MIT 8103
+# Church Membership Management System
 
-Student ID: 301924475
+Solomon Ajireloja · Student ID 301924475
 
-Church Membership Management System
+The portfolio uses fictional records for Church Membership Management System.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Ajireloja_Solomon_301924475_FinalSummary.md) · [PDF](Ajireloja_Solomon_301924475_FinalSummary.pdf)
